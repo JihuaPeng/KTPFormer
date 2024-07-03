@@ -3,6 +3,5 @@ This is the official implementation for "KTPFormer: Kinematics and Trajectory Pr
 
 
 
-
  ![QQ_1719996524911](https://github.com/JihuaPeng/KTPFormer/assets/30943144/455714e8-487c-47ec-90e3-676fdd0365ef)
 
