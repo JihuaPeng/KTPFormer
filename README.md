@@ -3,6 +3,8 @@ This is the official implementation for "KTPFormer: Kinematics and Trajectory Pr
 
 
 <p align="center"><img src="network.png", width="700" alt="" /></p>
+<p align="center"><img src="Drama3.png", width="600" alt="" /></p>
+
 
 
 > [**KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_KTPFormer_Kinematics_and_Trajectory_Prior_Knowledge-Enhanced_Transformer_for_3D_Human_CVPR_2024_paper.pdf)         
