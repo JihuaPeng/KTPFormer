@@ -3,7 +3,7 @@ This is the official implementation for "KTPFormer: Kinematics and Trajectory Pr
 
 
 <p align="center"><img src="network.png", width="700" alt="" /></p>
-<p align="center"><img src="Drama3.png", width="600" alt="" /></p>
+<p align="center"><img src="Drama3.gif", width="600" alt="" /></p>
 
 
 
