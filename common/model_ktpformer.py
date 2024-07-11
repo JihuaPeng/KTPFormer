@@ -67,8 +67,10 @@ class LearnableGraphConv(nn.Module):
 
         self.M = nn.Parameter(torch.ones(size=(adj.size(0), out_features), dtype=torch.float))
 
+        # spatial/temporal local topology
         self.adj = adj
-
+        
+        # simulated spatial/temporal global topology
         self.adj2 = nn.Parameter(torch.ones_like(adj))        
         nn.init.constant_(self.adj2, 1e-6)
 
